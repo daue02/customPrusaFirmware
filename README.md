@@ -1,3 +1,8 @@
+# MY CHANGES
+I've made the following changes to the original PRUSA software to better fit my printer
+- Switched PLA preheat temp to 170C. Combined with custom G-Code, this prevents filament from oozing before I start the print
+- Turned filament sensor off by default, as mine is broken
+
 # Prusa Firmware MK3
 
 This repository contains the source code and the development versions of the firmware running on the [Original Prusa i3](https://prusa3d.com/) MK3S/MK3/MK2.5S/MK2.5 line of printers.
